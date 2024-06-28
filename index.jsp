@@ -17,7 +17,7 @@
 		<p>
 			You are from <%= request.getRemoteAddr() %>
 		</p>
-		<div id="congrats"></div>
+		<div id="conrgrants"></div>
 
 		<style>
 			#conrgrats {
